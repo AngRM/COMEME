@@ -1,0 +1,73 @@
+body{
+color:black;
+font-family: monospace;
+background: url("/patronmoi.png") center/cover no-repeat;
+
+}
+.título-marca {
+ margin-right: 1.3em;
+ margin-top: 1em;
+    font-family: fantasy;
+    font-size: 2.3em;
+    text-align: right;
+    color:black;
+    background: url("/labioos.png") center/cover no-repeat;
+    background-size: 100px 70px; /* Ajusta estos valores según tus necesidades */
+
+}
+
+.recuadro{
+    background-color: white;
+    border-radius: 1em;
+    padding: 0.9em;
+    margin: 2em;
+}
+.bloqueSuperior {
+    background: linear-gradient(to right, #8dc494, #4b6e4c); /* Gradiente verde suave */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9); /* Sombra suave */
+    padding: 0.3em; /* Espaciado interno */
+    color: #fff; /* Texto blanco para contrastar */
+}
+.nivelesPoder{
+text-align: center;
+font-family: monospace;
+}
+.contenedor{
+    margin-top: 3em;
+}
+.table{
+        border-collapse: collapse;
+        width: 100%;
+    font-family: monospace;
+    font-size: 1.1em;
+   table-layout: auto;
+   margin-top: 2em;
+}
+td, th {
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  .encabezadoTabla{
+    background-color: rgb(128, 0, 111);
+    color: aliceblue;
+    font-size: 1.11m;
+  }
+  .principiantes{
+    background-color: greenyellow;
+  }
+  .medio{
+    background-color: rgb(255, 241, 47);
+  }
+  .fuerte{
+    background-color: rgb(235, 170, 29);
+  }
+   .superFuerte{
+    background-color: rgb(214, 49, 49);
+  }
+  .advertencia{
+    color:red;
+    font-size: 1em;
+    align-content: center;
+    text-align: center;
+  }

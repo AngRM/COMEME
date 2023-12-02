@@ -1,0 +1,11 @@
+{
+  "name": "letrero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tu-comando-de-inicio-aqui"
+  },
+  "author": "",
+  "license": "ISC"
+}
